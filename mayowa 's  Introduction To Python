@@ -1,0 +1,24 @@
+
+username= input('i will never tell you password!!!')
+password= input('What is your password just tell me!!!')
+
+print()
+
+username= input('i will never tell you password to my python programming language!!!')
+q2=input('Why do you choose to learn python programming language?')
+
+q3=input('i do not know?')
+
+print()
+
+
+q4=input('is it?')
+
+q5=input('i do not know?')
+
+print(f'''Thank you for your responses {username}, from this survey, we got a few information stating -
+    you are {username}, Why you enrolled - {q1}, 
+    how NextGen has impacted you - {q3}
+    , your intention - {q2},
+    
+    we hope to have your intellectual resource as an amazing part of the continuity of this program.''')
